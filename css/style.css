@@ -18,7 +18,8 @@ h1{
 font-family: 'Merriweather';
 }
 
-p:not(.no-underline){
+
+#underline{
     text-decoration: underline solid red;
 }
 img{
