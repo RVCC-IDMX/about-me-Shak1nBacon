@@ -21,7 +21,9 @@ font-family: 'Merriweather';
 p:not(.no-underline){
     text-decoration: underline solid red;
 }
-
+img{
+    height: 400px;
+}
 footer{
     font-size: 1.7rem;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
