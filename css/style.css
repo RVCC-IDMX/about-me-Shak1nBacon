@@ -1,14 +1,12 @@
 body{
     background-color:#0D152C;
     color:#1887FB;
-    text-align: center;
-}
+    align-items: center;}
 header{
     font-size: 2.5rem;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
-}
-
+}   
 main{
     font-size: 200%;
     padding: 5rem;
@@ -18,6 +16,10 @@ h1{
 font-family: 'Merriweather';
 }
 
+#hobbies{
+    display: flex; 
+    flex-direction: column; 
+}
 
 #underline{
     text-decoration: underline solid red;
@@ -29,4 +31,19 @@ footer{
     font-size: 1.7rem;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
+}
+
+@media screen and (min-width: 60em) {
+    figure{
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        align-items: center;
+    }
+    figcaption{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 2rem;
+        margin-left: 1rem;
+        }
 }
