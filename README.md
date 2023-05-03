@@ -21,3 +21,7 @@ The Hex and RGB Codes for Each Color are listed below:
 #1887FB OR rgb(24, 135, 251)
 
 #0D152C OR rgb(13, 21, 44)
+
+
+I reserve the rights to my code. 
+
