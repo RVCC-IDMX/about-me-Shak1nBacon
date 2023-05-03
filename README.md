@@ -10,4 +10,11 @@ In addition, we have learned about good file management practices, such as savin
 
 # Color Scheme
 
-color scheme
+The project mandated the consideration of individuals with color processing limitations or disabilities when selecting colors, in addition to aesthetic appeal. I chose a darker color scheme that felt more comfortable for my eyes, utilizing shades of dark and light blue.
+
+The Hex and RGB Codes for Each Color are listed below:
+
+#FF0000 OR rgb(0, 0, 255)
+#49C5E4 OR rgb(73, 197,	228)
+#1887FB OR rgb(24, 135, 251)
+#0D152C OR rgb(13, 21, 44)
