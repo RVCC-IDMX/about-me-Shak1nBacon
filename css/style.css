@@ -67,6 +67,8 @@ figure{
 figure img{
     width:66%;
 }
+
+
 @media screen and (min-width: 60em) {
     figure{
         display: grid;
@@ -108,4 +110,10 @@ figure img{
     }
     
 }
-  
+#video{
+    width: 600px;
+    border-radius: 30px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
