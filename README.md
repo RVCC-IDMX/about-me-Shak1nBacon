@@ -14,7 +14,10 @@ The project mandated the consideration of individuals with color processing limi
 
 The Hex and RGB Codes for Each Color are listed below:
 
-#FF0000 OR rgb(0, 0, 255)
+#FF0000 OR rgb(0, 0, 255) 
+
 #49C5E4 OR rgb(73, 197,	228)
+
 #1887FB OR rgb(24, 135, 251)
+
 #0D152C OR rgb(13, 21, 44)
