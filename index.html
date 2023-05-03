@@ -104,6 +104,52 @@
             <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/V7IUtUsfARA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
         </section>
+        <section id="contact">
+            <h2>Contact me:</h2>
+            <form method="post" data-netlify="true">
+
+                <fieldset>
+                    <legend>Contact Form </legend>
+
+                    <label for="FullName"> Your Alias:</label>
+                    <input id="FullName" name="FullName" type="text" placeholder="Alias" required>
+
+
+                    <label for="email"> Your Email:</label>
+                    <input id="email" name="FullName" type="email" placeholder="Your Email" required>
+
+
+                    <label for="phone"> Phone Number:</label>
+                    <input id="phone" name="phone" type="tel" placeholder="Phone" required>
+
+
+                    <label for="type">Phone Type:</label>
+                    <select id="type" name="type">
+                    <option value="Home">Home</option>
+                    <option value="It WORKS!">Cell</option>
+                    <optionvalue="Hi">Work</option>
+                    </select>
+
+
+                    <label for="message">Your Message: </label>
+                    <textarea id="message" name="message"></textarea>
+
+
+                    <fieldset>
+                    <legend>Would you like to be Contacted?</legend>
+                    <input id="yes" name="Click this" type="radio" checked="true" value="yes">
+                    <label for="yes"> Yes, please </label>
+                    
+
+                    <input id="no" name="Click this" type="radio" value="no">
+                    <label for="no"> No </label>
+                     </fieldset>
+
+
+                    <button id="click" type="submit"> Send me Your Message! </button>
+                </fieldset>
+            </form>
+        </section>
     </main>
     <footer>
         <p class="no-underline">&copy; 2023 Ismail Hassan</p>

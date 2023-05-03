@@ -68,6 +68,48 @@ figure img{
     width:66%;
 }
 
+#contact{
+    max-width: 500px;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+#contact legend{
+    background-color: #49c5e4;
+    color: rgb(34, 21, 61);
+    padding: 1ex;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+#contact fieldset{
+    display: grid;
+    margin-top: 1ex;
+    margin-bottom: 1ex;
+    font-family: 'Open Sans', sans-serif;
+    font-style: oblique;
+    color: #49c5e4;
+}
+
+#contact fieldset {
+    padding:1em;
+}
+
+#contact label{
+    margin:.2ex;
+}
+
+#contact fieldset fieldset {
+    grid-template-columns: 30px auto;
+}
+
+#contact button{
+    color: rgb(255, 0, 0);
+
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 25px;
+}
 
 @media screen and (min-width: 60em) {
     figure{
