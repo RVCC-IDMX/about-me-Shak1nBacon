@@ -8,3 +8,6 @@ One important lesson I learned from these assignments is the importance of time 
 
 In addition, we have learned about good file management practices, such as saving files in the appropriate folder and format, naming files correctly, and determining the parent/root directory.
 
+Color Scheme
+
+The project mandated the consideration of individuals with color processing limitations or disabilities when selecting colors, in addition to aesthetic appeal. I chose a darker color scheme that felt more comfortable for my eyes, utilizing shades of dark and light blue.
