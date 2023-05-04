@@ -8,15 +8,41 @@
     <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto Slab" rel="stylesheet">
+    <link rel="stylesheet" href="css/nav.css">
 </head>
 <body>
 
     <!--The body section or element contains all the information shown to the visitor-->    
 
     <header>
-        <!--The header shows the Logo and page title
-            DONT COFUSE IT WITH THE "HEAD"-->        
-        <h1>Welcome to Web Dev I</h1>
+        <nav class="navbar">
+            <input type="checkbox" id="nav_checkbox" class="nav_checkbox">
+            <label for="nav_checkbox" class="nav_toggle">
+                <div class="menu">
+                    <img src="/img/blkhamb.png" alt="Transparent Black Hamburger" width="40px" height="40px">
+                </div>
+                <div class="close">
+                    <img src="/img/blkX-50.png" alt="Black X" width="40px" height="40px">
+                    <!--This black X png was made by Godline Art on vecteezy.com-->
+                </div>
+            </label>
+            
+            <div class="logo">
+                <img src="/img/sblogo.jpeg" 
+                class="log-img" 
+                alt="Blue to Purple gradient of SB" />
+                <h1>About Me</h1>
+
+            </div>
+            <div class="navbar-links">
+                <ul>
+                    <li><a href="#gallery" class="nav-links">Gallery</a></li>
+                    <li><a href="#bio" class="nav-links">Bio</a></li>
+                    <li><a href="#lit" class="nav-links">Blog</a></li>
+                    <li><a href="#contact" class="nav-links">Contact me</a></li>
+                </ul>
+            </div>
+        </nav>
     </header>
 
     <main>
@@ -32,7 +58,7 @@
                 </div>
             <!--END OF HERO-->
         </section>
-        <section> <!--Bio Section-->
+      <section> <!--Bio Section-->
             <!-- Bio Section with personal information-->
             <div>
                 <p id="underline"> I want to be...</p>
