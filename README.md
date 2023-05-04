@@ -11,3 +11,13 @@ In addition, we have learned about good file management practices, such as savin
 # Color Scheme
 
 The project mandated the consideration of individuals with color processing limitations or disabilities when selecting colors, in addition to aesthetic appeal. I chose a darker color scheme that felt more comfortable for my eyes, utilizing shades of dark and light blue.
+
+Here are the unique Hex and RGB codes for each color that I used:
+
+- #1887FB and RGB (R,G,B) values are (24, 135, 251)
+- #49c5e4 and RGB (R,G,B) values are (73, 197, 228)
+- #010306 and RGB (R,G,B) values are (1, 3, 6)
+- #CB3333 and RGB (R,G,B) values are (203, 51, 51)
+- #0D152C and RGB (R,G,B) values are (13, 21, 44)
+- #FF0000 and RGB (R,G,B) values are (255, 0, 0)
+- #22153D and RGB (R,G,B) values are (34, 21, 61)
