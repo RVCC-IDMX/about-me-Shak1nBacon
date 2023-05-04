@@ -22,5 +22,5 @@ Here are the unique Hex and RGB codes for each color that I used:
 - #FF0000 and RGB (R,G,B) values are (255, 0, 0)
 - #22153D and RGB (R,G,B) values are (34, 21, 61)
 
-#License 
+# License 
 Ismail Hassan ©
